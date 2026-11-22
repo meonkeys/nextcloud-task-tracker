@@ -1,0 +1,13 @@
+{
+    "name": "meonkeys/task_tracker",
+    "description": "Nextcloud app that tracks task completions, notifying external server.",
+    "license": "AGPL-3.0-or-later",
+    "require": {
+        "php": ">=8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "OCA\\TaskTracker\\": "lib/"
+        }
+    }
+}
