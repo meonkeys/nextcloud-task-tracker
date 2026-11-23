@@ -12,6 +12,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <description>Listens to particular events and logs them to another server for central tracking.</description>
     <licence>AGPL-3.0-or-later</licence>
     <author mail="haircut@gmail.com" homepage="https://adammonsen.com">Adam Monsen</author>
+    <bugs>https://selfhostbook.com/contact/</bugs>
     <namespace>TaskTracker</namespace>
     <category>tools</category>
     <dependencies>
